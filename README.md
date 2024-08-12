@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 👋</h1>
+<h1 align="center">안녕하세요 조용민입니다!👋</h1>
 
 <h3 align="center">Languages and Tools</h3>
 
@@ -15,7 +15,8 @@
  👨‍💻 프로젝트 git 주소 [FPRoupang](https://github.com/leejihun2/FPRoupang)
   
  📝 블로그 [https://velog.io/@yon9/posts](https://velog.io/@yon9/posts)
-
+  
+공부한 내용들을 실습하여 코드로 남기는 공간입니다! 
 
 
 
