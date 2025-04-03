@@ -16,7 +16,5 @@
   
  📝 블로그 [https://velog.io/@yon9/posts](https://velog.io/@yon9/posts)
   
-공부한 내용들을 실습하여 코드로 남기는 공간입니다! 
-
 
 
