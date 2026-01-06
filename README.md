@@ -12,9 +12,7 @@
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </div>
- 👨‍💻 프로젝트 git 주소 [FPRoupang](https://github.com/leejihun2/FPRoupang)
-  
- 📝 블로그 [https://velog.io/@yon9/posts](https://velog.io/@yon9/posts)
+
   
 
 
